@@ -64,6 +64,34 @@ This documentary series explores 100 years of Nordic design, from 1925 to the mo
 - Cultural resistance through design
 - Moomin cultural phenomenon
 
+---
+
+### **Episode 3: Psykedeliska tider (1960-1979)**
+*"Psychedelic Times"*
+
+**Period Covered:** 1960-1979  
+**Key Theme:** Counter-culture revolution and global recognition  
+**Video ID:** jR5LBqQ  
+
+**Key Figures:**
+- Verner Panton (Danish designer, symbol of 1960s design)
+- Vuokko Nurmesniemi (Young Finnish designer)
+- Maija Isola (Finnish designer/artist, world citizen)
+- Nanna Ditzel (Danish designer, 5-decade career)
+- Arne Jacobsen (Legendary architect, mentor influence)
+- Poul Henningsen (Continued lighting design influence)
+
+**Cultural Context:**
+- David Frost, Grace of Monaco, Frank Sinatra, Sammy Davis Jr. (Celebrity adopters)
+
+**Major Themes:**
+- Psychedelic design movement
+- Nordic design as global cultural export
+- Celebrity culture and design collecting
+- Bold colors and experimental materials
+- Design objects as collectible art
+- Finnish textile design renaissance
+
 ## Repository Structure
 
 ```
@@ -74,11 +102,16 @@ Nordisk-Design-En-Karlekshistoria/
 │   ├── 1. Framtiden är här 1925-1939 [8orzQ7R].sv.vtt
 │   ├── 1. Framtiden är här 1925-1939 [8orzQ7R].sv-forced.vtt
 │   └── svt.json
-└── Episode-2-I-Skuggan-Av-Kriget-1939-1959/
-    ├── Nordic-Design-People-Episode2-1939-1959.md
-    ├── 2. I skuggan av kriget 1939-1959 [82dDAXJ].sv.vtt
-    ├── 2. I skuggan av kriget 1939-1959 [82dDAXJ].sv-forced.vtt
-    └── svt-episode2.json
+├── Episode-2-I-Skuggan-Av-Kriget-1939-1959/
+│   ├── Nordic-Design-People-Episode2-1939-1959.md
+│   ├── 2. I skuggan av kriget 1939-1959 [82dDAXJ].sv.vtt
+│   ├── 2. I skuggan av kriget 1939-1959 [82dDAXJ].sv-forced.vtt
+│   └── svt-episode2.json
+└── Episode-3-Psykedeliska-Tider-1960-1979/
+    ├── Nordic-Design-People-Episode3-1960-1979.md
+    ├── 3. Psykedeliska tider 1960-1979 [jR5LBqQ].sv.vtt
+    ├── 3. Psykedeliska tider 1960-1979 [jR5LBqQ].sv-forced.vtt
+    └── svt-episode3.json
 ```
 
 ## File Types Explanation
@@ -115,6 +148,13 @@ Nordisk-Design-En-Karlekshistoria/
 - Anti-functionalist movement
 - Post-war innovation
 - International recognition
+
+### **1960-1979: Psychedelic Revolution**
+- Counter-culture design movement
+- Bold colors and experimental materials
+- Global celebrity adoption
+- Design as collectible art
+- Space-age and organic forms
 
 ## Cultural Impact
 
