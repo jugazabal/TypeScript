@@ -118,38 +118,6 @@ This documentary series explores 100 years of Nordic design, from 1925 to the mo
 - Challenge to traditional Nordic materials and forms
 - Postmodern reaction against functionalism
 
-## Repository Structure
-
-```
-Nordisk-Design-En-Karlekshistoria/
-├── README.md (this file)
-├── Episode-1-Framtiden-Ar-Har-1925-1939/
-│   ├── Nordic-Design-People-1925-1939.md
-│   ├── 1. Framtiden är här 1925-1939 [8orzQ7R].sv.vtt
-│   ├── 1. Framtiden är här 1925-1939 [8orzQ7R].sv-forced.vtt
-│   └── svt.json
-├── Episode-2-I-Skuggan-Av-Kriget-1939-1959/
-│   ├── Nordic-Design-People-Episode2-1939-1959.md
-│   ├── 2. I skuggan av kriget 1939-1959 [82dDAXJ].sv.vtt
-│   ├── 2. I skuggan av kriget 1939-1959 [82dDAXJ].sv-forced.vtt
-│   └── svt-episode2.json
-├── Episode-3-Psykedeliska-Tider-1960-1979/
-│   ├── Nordic-Design-People-Episode3-1960-1979.md
-│   ├── 3. Psykedeliska tider 1960-1979 [jR5LBqQ].sv.vtt
-│   ├── 3. Psykedeliska tider 1960-1979 [jR5LBqQ].sv-forced.vtt
-│   └── svt-episode3.json
-├── Episode-4-Betong-I-Finrummet-1980-1999/
-│   ├── Nordic-Design-People-Episode4-1980-1999.md
-│   ├── 4. Betong i finrummet 1980-1999 [e3dvAMn].sv.vtt
-│   ├── 4. Betong i finrummet 1980-1999 [e3dvAMn].sv-forced.vtt
-│   └── svt-episode4.json
-└── Episode-5-En-Stund-Pa-Jorden-2000-2025/
-    ├── Nordic-Design-People-Episode5-2000-2025.md
-    ├── 5. En stund på jorden 2000-2025 [eak2bqB].sv.vtt
-    ├── 5. En stund på jorden 2000-2025 [eak2bqB].sv-forced.vtt
-    └── svt-episode5.json
-```
-
 ## File Types Explanation
 
 ### **Documentation Files (.md)**
@@ -252,6 +220,38 @@ All subtitle files include:
 - Sound effect descriptions
 - Visual context descriptions
 - Styled formatting for different content types
+
+## Repository Structure
+
+```
+Nordisk-Design-En-Karlekshistoria/
+├── README.md (this file)
+├── Episode-1-Framtiden-Ar-Har-1925-1939/
+│   ├── Nordic-Design-People-1925-1939.md
+│   ├── 1. Framtiden är här 1925-1939 [8orzQ7R].sv.vtt
+│   ├── 1. Framtiden är här 1925-1939 [8orzQ7R].sv-forced.vtt
+│   └── svt.json
+├── Episode-2-I-Skuggan-Av-Kriget-1939-1959/
+│   ├── Nordic-Design-People-Episode2-1939-1959.md
+│   ├── 2. I skuggan av kriget 1939-1959 [82dDAXJ].sv.vtt
+│   ├── 2. I skuggan av kriget 1939-1959 [82dDAXJ].sv-forced.vtt
+│   └── svt-episode2.json
+├── Episode-3-Psykedeliska-Tider-1960-1979/
+│   ├── Nordic-Design-People-Episode3-1960-1979.md
+│   ├── 3. Psykedeliska tider 1960-1979 [jR5LBqQ].sv.vtt
+│   ├── 3. Psykedeliska tider 1960-1979 [jR5LBqQ].sv-forced.vtt
+│   └── svt-episode3.json
+├── Episode-4-Betong-I-Finrummet-1980-1999/
+│   ├── Nordic-Design-People-Episode4-1980-1999.md
+│   ├── 4. Betong i finrummet 1980-1999 [e3dvAMn].sv.vtt
+│   ├── 4. Betong i finrummet 1980-1999 [e3dvAMn].sv-forced.vtt
+│   └── svt-episode4.json
+└── Episode-5-En-Stund-Pa-Jorden-2000-2025/
+    ├── Nordic-Design-People-Episode5-2000-2025.md
+    ├── 5. En stund på jorden 2000-2025 [eak2bqB].sv.vtt
+    ├── 5. En stund på jorden 2000-2025 [eak2bqB].sv-forced.vtt
+    └── svt-episode5.json
+```
 
 ---
 
