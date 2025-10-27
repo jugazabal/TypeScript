@@ -92,6 +92,32 @@ This documentary series explores 100 years of Nordic design, from 1925 to the mo
 - Design objects as collectible art
 - Finnish textile design renaissance
 
+---
+
+### **Episode 4: Betong i finrummet (1980-1999)**
+*"Concrete in the Drawing Room"*
+
+**Period Covered:** 1980-1999  
+**Key Theme:** Material revolution and postmodern influence  
+**Video ID:** e3dvAMn  
+
+**Key Figures:**
+- Jonas Bohlin (Swedish designer, revolutionary concrete furniture)
+- Mats Theselius (Young Swedish designer, aluminum and iron furniture)
+- Tone Vigeland (Norwegian artist, spike jewelry, famous artist family)
+- Memphis Design Collective (Italian collective, colorful geometric aesthetics)
+
+**Historical References:**
+- Bruno Mathsson, Carl Malmsten, Josef Frank (Previous generation context)
+
+**Major Themes:**
+- Industrial materials as luxury design elements
+- Memphis movement's influence on Nordic design
+- Norwegian design renaissance and liberation
+- Design objects as auction items and investments
+- Challenge to traditional Nordic materials and forms
+- Postmodern reaction against functionalism
+
 ## Repository Structure
 
 ```
@@ -107,11 +133,16 @@ Nordisk-Design-En-Karlekshistoria/
 │   ├── 2. I skuggan av kriget 1939-1959 [82dDAXJ].sv.vtt
 │   ├── 2. I skuggan av kriget 1939-1959 [82dDAXJ].sv-forced.vtt
 │   └── svt-episode2.json
-└── Episode-3-Psykedeliska-Tider-1960-1979/
-    ├── Nordic-Design-People-Episode3-1960-1979.md
-    ├── 3. Psykedeliska tider 1960-1979 [jR5LBqQ].sv.vtt
-    ├── 3. Psykedeliska tider 1960-1979 [jR5LBqQ].sv-forced.vtt
-    └── svt-episode3.json
+├── Episode-3-Psykedeliska-Tider-1960-1979/
+│   ├── Nordic-Design-People-Episode3-1960-1979.md
+│   ├── 3. Psykedeliska tider 1960-1979 [jR5LBqQ].sv.vtt
+│   ├── 3. Psykedeliska tider 1960-1979 [jR5LBqQ].sv-forced.vtt
+│   └── svt-episode3.json
+└── Episode-4-Betong-I-Finrummet-1980-1999/
+    ├── Nordic-Design-People-Episode4-1980-1999.md
+    ├── 4. Betong i finrummet 1980-1999 [e3dvAMn].sv.vtt
+    ├── 4. Betong i finrummet 1980-1999 [e3dvAMn].sv-forced.vtt
+    └── svt-episode4.json
 ```
 
 ## File Types Explanation
@@ -155,6 +186,13 @@ Nordisk-Design-En-Karlekshistoria/
 - Global celebrity adoption
 - Design as collectible art
 - Space-age and organic forms
+
+### **1980-1999: Material Revolution**
+- Industrial materials entering luxury design
+- Memphis movement influence from Italy
+- Norwegian design renaissance
+- Postmodern reaction against functionalism
+- Design auction culture emergence
 
 ## Cultural Impact
 
