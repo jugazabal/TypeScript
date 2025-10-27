@@ -31,6 +31,56 @@ This final episode covers the contemporary period of Nordic design, focusing on 
 - **Approach**: Investigating materials to reduce climate footprint
 - **Context**: Part of the contemporary generation addressing environmental concerns through design
 
+### **Front Design**
+- **Founded**: Early 2000s (formed at beginning of 2000s)
+- **Members**: Anna Lindgren and Sofia Lagerkvist (Swedish design collective)
+- **Approach**: Blends 3D technology with traditional crafts like plant dyeing
+- **Philosophy**: Goes against prevailing norms since formation
+- **Breakthrough**: Shook the design world with their graduation project where they let rats gnaw patterns into materials
+- **Innovation**: Revolutionary approach combining digital technology with artisanal techniques
+- **Context**: Represents new generation challenging traditional design methods
+
+### **Antrei Hartikainen**
+- **Nationality**: Finnish designer/craftsman
+- **Specialty**: Craft that follows the seasons of Finnish nature
+- **Notable work**: "Melt" series
+- **Approach**: Finds ideas for design from light and shadows in nature
+- **Philosophy**: Deep connection to natural cycles and Finnish landscape
+- **Context**: Represents contemporary Nordic connection to nature and seasonality
+
+### **Tapio Wirkkala** *(Historical Reference)*
+- **Nationality**: Finnish designer (1915-1985)
+- **Legacy**: Major influence on contemporary designers
+- **Philosophy**: "Always listened carefully to nature"
+- **Significance**: Legendary figure whose work continues to influence current generation
+- **Approach**: Nature-based design philosophy
+- **Context**: Historical inspiration for contemporary environmental design thinking
+
+---
+
+## Additional Contemporary Designers
+
+### **Johan Ansander**
+- **Nationality**: Swedish designer
+- **Association**: Works with Svenskt Tenn (noted Swedish design house)
+- **Context**: Contemporary Nordic furniture designer
+- **Note**: Limited information available in subtitle content
+
+### **Other Contemporary Nordic Designers** *(Limited Information Available)*
+The following designers were mentioned as significant contemporary figures but detailed information was not found in the episode subtitles:
+
+- **Thomas Bernstrand** - Swedish designer
+- **Stefan Borselius** - Swedish designer  
+- **Hannes Åström** - Swedish designer
+- **Jonas Forsman** - Swedish designer
+- **Sami Kallio** - Finnish/Nordic designer
+- **Mathieu Gustafsson** - Swedish designer
+- **Sigurdur Gustafsson** - Icelandic/Nordic designer
+- **Zandra Ahl** - Swedish designer
+- **Chris L. Halström** - Swedish designer
+
+*These designers represent the broader contemporary Nordic design community active in the 2000-2025 period, contributing to the climate-conscious and sustainable design movement discussed in the episode.*
+
 ---
 
 ## Cultural Context
