@@ -51,24 +51,98 @@
 - **Influence:** Mentioned alongside Verner Panton as key influence
 - **Context:** Established designer influencing younger generation
 
+### **7. Georg Jensen** *(Referenced)*
+- **Title:** Danish Silversmith and Company Founder (1866-1935)
+- **Context:** Nanna Ditzel created jewelry for Georg Jensen company
+- **Significance:** Historic Danish design house continuing to work with contemporary designers
+- **Legacy:** Company representing Danish craftsmanship tradition in modern era
+
+### **8. Yrjö Kukkapuro**
+- **Title:** Epoch-defining Designer (Epokavgörande Designer)
+- **Nationality:** Finnish 
+- **Status:** "Ett slags legend" (A kind of legend)
+- **Specialty:** Deep interest in ergonomics
+- **Approach:** Experimented with new materials, worked like an inventor
+- **Personal Impact:** Shaped his own life and influenced all his close associates
+- **Global Recognition:** Name spread worldwide alongside Marimekko and Aalto
+- **Innovation:** Pioneered ergonomic furniture design in psychedelic era
+
+### **9. Björn Weckström**
+- **Title:** Finnish Jewelry Designer
+- **Fame:** His jewelry appeared on Princess Leia in Star Wars
+- **Notable Work:** "Space Silver" jewelry collection inspired by space themes
+- **Context:** Representative of Nordic design's influence on popular culture and cinema
+- **Innovation:** Space-age jewelry design capturing 1960s futuristic aesthetics
+
+### **10. Carl Johan De Geer**
+- **Title:** Textile Artist (Textilkonstnär)
+- **Role:** Artist and photographer 
+- **Notable Work:** Created the pattern "Rendez Vous" in mid-1960s
+- **Commercial Work:** Designed patterns for KF (Swedish Cooperative) in 1972
+- **Personal:** Married to artist Marie Louise De Geer
+- **Contemporary Recognition:** Swedish brand Dedicated released collection based on his 1972 KF design in 2025
+- **Influence:** Contemporary fashion designer Carin Rodebjer draws inspiration from his work
+
+### **11. Tapio Wirkkala**
+- **Title:** "The King of the Forest"  
+- **Nationality:** Finnish designer (1915-1985)
+- **Philosophy:** "We have our roots in nature"
+- **International Breakthrough:** Ultima Thule series inspired by ice formations
+- **Approach:** Nature-based design philosophy
+- **Context:** Master of organic design influencing psychedelic generation
+
+### **12. Peter Opsvik**
+- **Title:** Designer specializing in ergonomics
+- **Relationship:** Father of Tor Opsvik
+- **Expertise:** Master of ergonomics with special perspective on existence
+- **Innovation:** Contributed ideas that influenced furniture design evolution
+- **Context:** Norwegian designer influencing Scandinavian ergonomic furniture
+
+### **13. Sven Ivar Dysthe**
+- **Title:** Norwegian Designer
+- **Personal:** Husband collaborator (worked together with his wife)
+- **Context:** Part of Norwegian design renaissance in psychedelic era
+- **Significance:** Representative of husband-wife design partnerships common in Nordic design
+
+### **14. Carin Rodebjer** *(Contemporary Reference)*
+- **Title:** Swedish Fashion Creator (Modeskapare)
+- **Context:** Contemporary designer drawing inspiration from 1960s Nordic design
+- **Connection:** Specifically references Carl Johan De Geer's work
+- **Significance:** Shows lasting influence of psychedelic era on modern fashion
+
+## Historical Designers *(Not Found in Subtitles)*
+
+### **15. Ilmari Tapiovaara** *(1914-1999)*
+- **Title:** Finnish Interior and Furniture Designer
+- **Education:** Graduated interior design 1937, influenced by Alvar Aalto
+- **Notable Work:** Domus chairs, designed dugouts and field furniture for Finnish Army in WWII
+- **Innovation:** Polar cutlery (gold medal at Milan Triennial XIII, 1964)
+- **Recognition:** Pro Finlandia medal 1959, Order of the Lion of Finland
+- **Career:** Taught at Illinois Institute of Technology, worked on UN development programs
+- **Legacy:** Furniture designs continued production into 21st century
+
+### **16. Eero Paloheimo, Wolfgang Feierbach** *(Limited Information Available)*
+- **Context:** Contemporary Nordic designers of the psychedelic era
+- **Note:** Specific details not found in episode subtitles
+
 ## Cultural and Celebrity Context
 
-### **7. David Frost**
+### **17. David Frost**
 - **Title:** TV Host/Media Personality
 - **Context:** Celebrity client or cultural figure of the era
 - **Association:** Mentioned alongside other high-profile figures
 
-### **8. Grace av Monaco (Grace Kelly)**
+### **18. Grace av Monaco (Grace Kelly)**
 - **Title:** Princess of Monaco/Former Actress
 - **Context:** Cultural icon and design patron of the era
 - **Significance:** Representative of high-profile clients for Nordic design
 
-### **9. Frank Sinatra**
+### **19. Frank Sinatra**
 - **Title:** Singer/Entertainer
 - **Context:** Cultural icon of the era
 - **Association:** Part of celebrity culture embracing Nordic design
 
-### **10. Sammy Davis Jr.**
+### **20. Sammy Davis Jr.**
 - **Title:** Entertainer/Singer
 - **Context:** Member of the cultural elite
 - **Significance:** Shows international reach of Nordic design influence
