@@ -138,11 +138,16 @@ Nordisk-Design-En-Karlekshistoria/
 │   ├── 3. Psykedeliska tider 1960-1979 [jR5LBqQ].sv.vtt
 │   ├── 3. Psykedeliska tider 1960-1979 [jR5LBqQ].sv-forced.vtt
 │   └── svt-episode3.json
-└── Episode-4-Betong-I-Finrummet-1980-1999/
-    ├── Nordic-Design-People-Episode4-1980-1999.md
-    ├── 4. Betong i finrummet 1980-1999 [e3dvAMn].sv.vtt
-    ├── 4. Betong i finrummet 1980-1999 [e3dvAMn].sv-forced.vtt
-    └── svt-episode4.json
+├── Episode-4-Betong-I-Finrummet-1980-1999/
+│   ├── Nordic-Design-People-Episode4-1980-1999.md
+│   ├── 4. Betong i finrummet 1980-1999 [e3dvAMn].sv.vtt
+│   ├── 4. Betong i finrummet 1980-1999 [e3dvAMn].sv-forced.vtt
+│   └── svt-episode4.json
+└── Episode-5-En-Stund-Pa-Jorden-2000-2025/
+    ├── Nordic-Design-People-Episode5-2000-2025.md
+    ├── 5. En stund på jorden 2000-2025 [eak2bqB].sv.vtt
+    ├── 5. En stund på jorden 2000-2025 [eak2bqB].sv-forced.vtt
+    └── svt-episode5.json
 ```
 
 ## File Types Explanation
@@ -193,6 +198,34 @@ Nordisk-Design-En-Karlekshistoria/
 - Norwegian design renaissance
 - Postmodern reaction against functionalism
 - Design auction culture emergence
+
+### **2000-2025: Contemporary Era**
+- Climate consciousness and sustainability
+- Environmental material innovation
+- Professional reinvention for the 21st century
+- Global responsibility and local materials
+- Digital generation design thinking
+
+---
+
+### **Episode 5: En stund på jorden (2000-2025)**
+*"A Moment on Earth"*
+
+**Period Covered:** 2000-2025  
+**Key Theme:** Climate consciousness and sustainable design  
+**Video ID:** eak2bqB  
+
+**Key Figures:**
+- Daniel Rybakken (Norwegian lighting designer, 2000s generation)
+- Jonas Edvard (Sustainable designer, local materials focus)
+- Cecilie Manz (Material innovation and fragility focus)
+
+**Major Themes:**
+- Reinventing the design profession for environmental challenges
+- Sustainability beyond simple material recycling
+- Climate consciousness integrated into design philosophy
+- New materials for reduced climate footprint
+- Design as planetary stewardship
 
 ## Cultural Impact
 
