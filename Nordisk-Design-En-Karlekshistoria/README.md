@@ -118,6 +118,27 @@ This documentary series explores 100 years of Nordic design, from 1925 to the mo
 - Challenge to traditional Nordic materials and forms
 - Postmodern reaction against functionalism
 
+---
+
+### **Episode 5: En stund på jorden (2000-2025)**
+*"A Moment on Earth"*
+
+**Period Covered:** 2000-2025  
+**Key Theme:** Climate consciousness and sustainable design  
+**Video ID:** eak2bqB  
+
+**Key Figures:**
+- Daniel Rybakken (Norwegian lighting designer, 2000s generation)
+- Jonas Edvard (Sustainable designer, local materials focus)
+- Cecilie Manz (Material innovation and fragility focus)
+
+**Major Themes:**
+- Reinventing the design profession for environmental challenges
+- Sustainability beyond simple material recycling
+- Climate consciousness integrated into design philosophy
+- New materials for reduced climate footprint
+- Design as planetary stewardship
+
 ## File Types Explanation
 
 ### **Documentation Files (.md)**
@@ -173,27 +194,6 @@ This documentary series explores 100 years of Nordic design, from 1925 to the mo
 - Professional reinvention for the 21st century
 - Global responsibility and local materials
 - Digital generation design thinking
-
----
-
-### **Episode 5: En stund på jorden (2000-2025)**
-*"A Moment on Earth"*
-
-**Period Covered:** 2000-2025  
-**Key Theme:** Climate consciousness and sustainable design  
-**Video ID:** eak2bqB  
-
-**Key Figures:**
-- Daniel Rybakken (Norwegian lighting designer, 2000s generation)
-- Jonas Edvard (Sustainable designer, local materials focus)
-- Cecilie Manz (Material innovation and fragility focus)
-
-**Major Themes:**
-- Reinventing the design profession for environmental challenges
-- Sustainability beyond simple material recycling
-- Climate consciousness integrated into design philosophy
-- New materials for reduced climate footprint
-- Design as planetary stewardship
 
 ## Cultural Impact
 
